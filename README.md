@@ -1,6 +1,6 @@
 # [Wireless Communication Systems](https://fitech.io/en/studies/wireless-communication-systems/)
 
-[![Binder](https://mybinder.org/v2/gh/pedrohjn/wireless-comm/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedrohjn/wireless-comm/master)
 
 *Learning outcomes:* This course introduces the fundamental theories used in communication engineering. The students will be able to design/analyze simple wireless communication systems, including physical layer for analog and digital transmission (e.g. bandwidth, channel modeling, modulation, demodulation, bit-error rate, channel capacity, etc.).
 
